@@ -61,7 +61,9 @@ RegisterNumber: 24900766
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-17 201746](https://github.com/user-attachments/assets/46253a19-012d-4c60-b28e-3496cf372169)
+![exp-8 W1](https://github.com/user-attachments/assets/65ee291b-a79d-4247-9402-ec0c2c712e5a)
+
+
 
 **RESULTS**
  Hence the D-Flipflop using verilog and validating their functionality using their functional tables is verified
